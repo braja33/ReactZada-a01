@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-  let proizvod = {
+  const proizvod = {
     ime: "mlijeko",
     količina: 4,
     pakiranje: "1L",
